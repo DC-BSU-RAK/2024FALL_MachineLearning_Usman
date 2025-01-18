@@ -16,5 +16,5 @@ Looking forward to an exciting semester!
 
 Best regards,  
 **Usman Ahmad**  
-Lecturer, Machine Learning  
+Lecturer 
 Bath Spa University, UAE
