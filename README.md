@@ -1,1 +1,1 @@
-# Machine-Learning---Gradio-Lectures-Fall-2024
+# Machine-Learning-Gradio-Lectures-Fall-2024
